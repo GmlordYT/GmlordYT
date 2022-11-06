@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GmlordYT
+- 👋 Hi, I’m @Gmlord
 - 👀 I’m interested in osu.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...Discord("The Big Black#8902");
+- 🌱 I’m currently learning Python & JavaScript
+- 💞️ I’m looking to collaborate on designeing
+- 📫 How to reach me ...Discord("Gmlord#5655");
 
 <!---
 GmlordYT/GmlordYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
